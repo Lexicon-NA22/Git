@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,5 +11,8 @@ namespace Git
     {
         public string Color { get; set; }
         public int Count { get; set; }
+
+        [DisplayName("Davids Property")]
+        public string DavidsProperty { get; set; }
     }
 }
