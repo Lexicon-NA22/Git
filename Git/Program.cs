@@ -22,3 +22,5 @@ void GetBananas()
 {
     Console.WriteLine("Banan");
 }
+
+Console.WriteLine("Error");
