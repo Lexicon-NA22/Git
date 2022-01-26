@@ -14,5 +14,7 @@ namespace Git
 
         [DisplayName("Davids Property")]
         public string DavidsProperty { get; set; }
+
+        public string DimitrisProp { get; set; }
     }
 }

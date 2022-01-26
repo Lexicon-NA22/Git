@@ -10,4 +10,11 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Hej");
 Console.WriteLine("Hej");
-Console.WriteLine("Hej från dimitris branch");
+Console.WriteLine("Hej från dimitris branch 123");
+
+GetBananas();
+
+void GetBananas()
+{
+    Console.WriteLine("Banan");
+}
