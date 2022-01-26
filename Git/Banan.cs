@@ -13,8 +13,8 @@ namespace Git
         public int Count { get; set; }
 
         [DisplayName("Davids Property")]
-        public string DavidsProperty { get; set; }
+        public string David { get; set; }
 
-        public string DimitrisProp { get; set; }
+        public string Dimitris { get; set; }
     }
 }
