@@ -9,5 +9,12 @@ Console.WriteLine("Hello, World!");
 
 
 Console.WriteLine("Hej");
-Console.WriteLine("Hej");
-Console.WriteLine("Hej från dimitris branch");
+Console.WriteLine("Hej från David");
+Console.WriteLine("Hej från Main-branch");
+
+GetApples();
+
+void GetApples()
+{
+    Console.WriteLine("Apple"); ;
+}
