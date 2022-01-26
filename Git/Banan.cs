@@ -9,5 +9,6 @@ namespace Git
     internal class Banan
     {
         public string Color { get; set; }
+        public int Count { get; set; }
     }
 }
