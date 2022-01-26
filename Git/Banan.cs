@@ -8,5 +8,6 @@ namespace Git
 {
     internal class Banan
     {
+        public string Color { get; set; }
     }
 }
