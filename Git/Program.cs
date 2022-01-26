@@ -9,3 +9,4 @@ Console.WriteLine("Hello, World!");
 
 
 Console.WriteLine("Hej");
+Console.WriteLine("Hej");
